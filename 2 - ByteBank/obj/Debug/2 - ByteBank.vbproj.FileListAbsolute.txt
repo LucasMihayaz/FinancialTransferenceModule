@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.exe.config
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.exe
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.pdb
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.xml
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\_2___ByteBank.Frm_Principal_02.resources
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\_2___ByteBank.Resources.resources
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbproj.GenerateResource.cache
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.exe
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.xml
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.pdb
+C:\Users\lucas\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbproj.AssemblyReference.cache
